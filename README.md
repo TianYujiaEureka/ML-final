@@ -1,6 +1,7 @@
 # ML-final
-机器学习期末论文涉及代码
-*数据集https://pan.baidu.com/s/15LnOxDx8j0Tsj050jYl1Xw
+机器学习期末论文涉及代码  
+*数据集链接：https://pan.baidu.com/s/1CgJQ_a2dIQScG4Vv73T_fQ 提取码：BnbB 
+
 # 运行顺序
 1. 首先需要运行ML-final文件，运行时请更改目录至数据集存放文件夹  
 目的：清洗数据  
